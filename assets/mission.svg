@@ -1,0 +1,25 @@
+<svg width="1200" height="450" viewBox="0 0 1200 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="450" gradientUnits="userSpaceOnUse"><stop stop-color="#020617"/><stop offset="0.55" stop-color="#071426"/><stop offset="1" stop-color="#020617"/></linearGradient>
+  </defs>
+  <rect width="1200" height="450" rx="24" fill="url(#bg)"/>
+  <rect x="28" y="28" width="1144" height="394" rx="20" fill="#061222" stroke="#38BDF8" stroke-opacity="0.16"/>
+  <text x="60" y="80" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="800">CURRENT DIRECTION</text>
+  <text x="60" y="112" fill="#8FA9C4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Four tracks guiding the work I am building now.</text>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <rect x="60" y="148" width="510" height="96" rx="18" fill="#081528" stroke="#0EA5E9" stroke-opacity="0.20"/>
+    <text x="86" y="178" fill="#7DD3FC" font-size="15" font-weight="800" letter-spacing="1.2">PRODUCT</text>
+    <text x="86" y="208" fill="#D7E5F3" font-size="17.5">Evolve SGS into a mature, reliable</text><text x="86" y="232" fill="#D7E5F3" font-size="17.5">and scalable SaaS platform.</text>
+    <rect x="630" y="148" width="510" height="96" rx="18" fill="#081528" stroke="#0EA5E9" stroke-opacity="0.20"/>
+    <text x="656" y="178" fill="#7DD3FC" font-size="15" font-weight="800" letter-spacing="1.2">COMPANY</text>
+    <text x="656" y="208" fill="#D7E5F3" font-size="17.5">Strengthen Gandra Tecnologia as a</text><text x="656" y="232" fill="#D7E5F3" font-size="17.5">software and product ecosystem.</text>
+    <rect x="60" y="264" width="510" height="96" rx="18" fill="#081528" stroke="#0EA5E9" stroke-opacity="0.20"/>
+    <text x="86" y="294" fill="#7DD3FC" font-size="15" font-weight="800" letter-spacing="1.2">ENGINEERING</text>
+    <text x="86" y="324" fill="#D7E5F3" font-size="17.5">Deepen architecture, security, cloud,</text><text x="86" y="348" fill="#D7E5F3" font-size="17.5">data, testing and observability.</text>
+    <rect x="630" y="264" width="510" height="96" rx="18" fill="#081528" stroke="#0EA5E9" stroke-opacity="0.20"/>
+    <text x="656" y="294" fill="#7DD3FC" font-size="15" font-weight="800" letter-spacing="1.2">INTELLIGENCE</text>
+    <text x="656" y="324" fill="#D7E5F3" font-size="17.5">Explore AI agents, automation, memory</text><text x="656" y="348" fill="#D7E5F3" font-size="17.5">and practical orchestration.</text>
+  </g>
+  <line x1="60" y1="390" x2="1140" y2="390" stroke="#38BDF8" stroke-opacity="0.14"/>
+  <text x="600" y="416" text-anchor="middle" fill="#8FA9C4" font-family="JetBrains Mono, Consolas, monospace" font-size="13.5" letter-spacing="1.0">BUILD SYSTEMS THAT SURVIVE CONTACT WITH THE REAL WORLD.</text>
+</svg>
