@@ -1,32 +1,43 @@
-<svg width="1600" height="540" viewBox="0 0 1600 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="440" viewBox="0 0 1200 440" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="540" gradientUnits="userSpaceOnUse"><stop stop-color="#030712"/><stop offset="0.5" stop-color="#08162B"/><stop offset="1" stop-color="#020617"/></linearGradient>
-    <linearGradient id="stroke" x1="80" y1="70" x2="1520" y2="470" gradientUnits="userSpaceOnUse"><stop stop-color="#0EA5E9"/><stop offset="0.5" stop-color="#0056B3"/><stop offset="1" stop-color="#0EA5E9"/></linearGradient>
-    <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="22"/></filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/><stop offset="0.52" stop-color="#071426"/><stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="42" y1="36" x2="1158" y2="404" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity="0.55"/><stop offset="0.50" stop-color="#0056B3" stop-opacity="0.22"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0.38"/>
+    </linearGradient>
+    <filter id="glow" x="-160%" y="-160%" width="420%" height="420%"><feGaussianBlur stdDeviation="16"/></filter>
   </defs>
-  <rect width="1600" height="540" rx="28" fill="url(#bg)"/>
-  <rect x="50" y="50" width="1500" height="440" rx="26" fill="#071426" stroke="url(#stroke)" stroke-opacity="0.35"/>
-  <rect x="90" y="95" width="170" height="34" rx="17" fill="#0A1224" stroke="#0EA5E9" stroke-opacity="0.4"/>
-  <text x="175" y="118" text-anchor="middle" fill="#BEE8FF" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="1.4">MAIN PRODUCT</text>
-  <text x="90" y="190" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="64" font-weight="800">SGS</text>
-  <text x="90" y="235" fill="#D5E5F8" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="600" letter-spacing="1.3">SISTEMA DE GESTÃO DE SEGURANÇA</text>
-  <text x="90" y="290" fill="#AFC4DA" font-family="Inter, Arial, sans-serif" font-size="20">Multi-tenant SaaS platform for Workplace Safety, governed documentation,</text>
-  <text x="90" y="322" fill="#AFC4DA" font-family="Inter, Arial, sans-serif" font-size="20">inspections, reports, operational control and structured enterprise workflows.</text>
-  <g font-family="JetBrains Mono, Consolas, monospace" font-size="15" font-weight="700">
-    <rect x="90" y="365" width="90" height="34" rx="17" fill="#0B1F3A"/><text x="135" y="387" fill="#7DD3FC" text-anchor="middle">SAAS</text>
-    <rect x="194" y="365" width="120" height="34" rx="17" fill="#0B1F3A"/><text x="254" y="387" fill="#7DD3FC" text-anchor="middle">B2B</text>
-    <rect x="328" y="365" width="150" height="34" rx="17" fill="#0B1F3A"/><text x="403" y="387" fill="#7DD3FC" text-anchor="middle">MULTI-TENANT</text>
-    <rect x="492" y="365" width="145" height="34" rx="17" fill="#0B1F3A"/><text x="564.5" y="387" fill="#7DD3FC" text-anchor="middle">WORKPLACE</text>
-    <rect x="651" y="365" width="118" height="34" rx="17" fill="#0B1F3A"/><text x="710" y="387" fill="#7DD3FC" text-anchor="middle">SAFETY</text>
-    <rect x="90" y="414" width="125" height="34" rx="17" fill="#0B1F3A"/><text x="152.5" y="436" fill="#7DD3FC" text-anchor="middle">REPORTS</text>
-    <rect x="229" y="414" width="150" height="34" rx="17" fill="#0B1F3A"/><text x="304" y="436" fill="#7DD3FC" text-anchor="middle">INSPECTIONS</text>
-    <rect x="393" y="414" width="130" height="34" rx="17" fill="#0B1F3A"/><text x="458" y="436" fill="#7DD3FC" text-anchor="middle">ACCESS</text>
-    <rect x="537" y="414" width="160" height="34" rx="17" fill="#0B1F3A"/><text x="617" y="436" fill="#7DD3FC" text-anchor="middle">GOVERNANCE</text>
-    <rect x="711" y="414" width="92" height="34" rx="17" fill="#0B1F3A"/><text x="757" y="436" fill="#7DD3FC" text-anchor="middle">LGPD</text>
+  <rect width="1200" height="440" rx="26" fill="url(#bg)"/>
+  <rect x="34" y="34" width="1132" height="372" rx="22" fill="#061222" stroke="url(#edge)"/>
+  <rect x="70" y="68" width="190" height="34" rx="17" fill="#08192D" stroke="#38BDF8" stroke-opacity="0.28"/>
+  <text x="165" y="90" text-anchor="middle" fill="#A8DFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.8">CORE PRODUCT</text>
+  <text x="70" y="157" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">SGS</text>
+  <text x="70" y="195" fill="#D7E5F3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="0.9">SISTEMA DE GESTÃO DE SEGURANÇA</text>
+  <text x="70" y="240" fill="#B8CBE0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19">B2B multi-tenant SaaS for Occupational Health &amp; Safety (SST), combining</text>
+  <text x="70" y="269" fill="#B8CBE0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19">documents, inspections, permissions, indicators, auditability and operational workflows.</text>
+  <g font-family="JetBrains Mono, Consolas, monospace" font-size="13" font-weight="700">
+    <rect x="70" y="310" width="82" height="32" rx="16" fill="#0B1F3A"/><text x="111" y="331" fill="#7DD3FC" text-anchor="middle">SaaS</text>
+    <rect x="164" y="310" width="74" height="32" rx="16" fill="#0B1F3A"/><text x="201" y="331" fill="#7DD3FC" text-anchor="middle">B2B</text>
+    <rect x="250" y="310" width="132" height="32" rx="16" fill="#0B1F3A"/><text x="316" y="331" fill="#7DD3FC" text-anchor="middle">MULTI-TENANT</text>
+    <rect x="394" y="310" width="78" height="32" rx="16" fill="#0B1F3A"/><text x="433" y="331" fill="#7DD3FC" text-anchor="middle">SST</text>
+    <rect x="484" y="310" width="112" height="32" rx="16" fill="#0B1F3A"/><text x="540" y="331" fill="#7DD3FC" text-anchor="middle">AUDIT</text>
+    <rect x="70" y="354" width="112" height="32" rx="16" fill="#0B1F3A"/><text x="126" y="375" fill="#7DD3FC" text-anchor="middle">REPORTS</text>
+    <rect x="194" y="354" width="130" height="32" rx="16" fill="#0B1F3A"/><text x="259" y="375" fill="#7DD3FC" text-anchor="middle">INSPECTIONS</text>
+    <rect x="336" y="354" width="104" height="32" rx="16" fill="#0B1F3A"/><text x="388" y="375" fill="#7DD3FC" text-anchor="middle">ACCESS</text>
+    <rect x="452" y="354" width="142" height="32" rx="16" fill="#0B1F3A"/><text x="523" y="375" fill="#7DD3FC" text-anchor="middle">GOVERNANCE</text>
+    <rect x="606" y="354" width="76" height="32" rx="16" fill="#0B1F3A"/><text x="644" y="375" fill="#7DD3FC" text-anchor="middle">LGPD</text>
   </g>
-  <circle cx="1210" cy="272" r="118" fill="#0056B3" opacity="0.16" filter="url(#shadow)"/><circle cx="1210" cy="272" r="110" fill="none" stroke="#38BDF8" stroke-opacity="0.8" stroke-width="2.2"/><circle cx="1210" cy="272" r="80" fill="none" stroke="#0056B3" stroke-opacity="0.9" stroke-width="1.3"/><circle cx="1210" cy="272" r="48" fill="#061A37" stroke="#7DD3FC" stroke-opacity="0.7"/><circle cx="1210" cy="272" r="7" fill="#BFF4FF"/>
-  <line x1="1210" y1="162" x2="1210" y2="105" stroke="#38BDF8" stroke-opacity="0.5"/><line x1="1210" y1="382" x2="1210" y2="439" stroke="#38BDF8" stroke-opacity="0.5"/><line x1="1100" y1="272" x2="1040" y2="272" stroke="#38BDF8" stroke-opacity="0.5"/><line x1="1320" y1="272" x2="1380" y2="272" stroke="#38BDF8" stroke-opacity="0.5"/>
-  <rect x="1040" y="94" width="305" height="76" rx="18" fill="#081528" stroke="#0EA5E9" stroke-opacity="0.25"/><text x="1068" y="121" fill="#E5F3FF" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700">SYSTEM FOCUS</text><text x="1068" y="149" fill="#AFC4DA" font-family="Inter, Arial, sans-serif" font-size="15">Safety + data + workflows + enterprise control</text>
-  <rect x="1006" y="401" width="378" height="54" rx="16" fill="#081528" stroke="#0EA5E9" stroke-opacity="0.22"/><text x="1195" y="434" text-anchor="middle" fill="#D7EDFF" font-family="JetBrains Mono, Consolas, monospace" font-size="15">app.sgsseguranca.com.br</text>
-  <rect x="1" y="1" width="1598" height="538" rx="27" stroke="#38BDF8" stroke-opacity="0.08"/>
+  <circle cx="952" cy="220" r="104" fill="#0056B3" opacity="0.11" filter="url(#glow)"/>
+  <circle cx="952" cy="220" r="92" fill="none" stroke="#38BDF8" stroke-opacity="0.62" stroke-width="2"/>
+  <circle cx="952" cy="220" r="64" fill="none" stroke="#0056B3" stroke-opacity="0.86"/>
+  <circle cx="952" cy="220" r="34" fill="#071A31" stroke="#7DD3FC" stroke-opacity="0.60"/>
+  <circle cx="952" cy="220" r="5" fill="#E0F7FF"/>
+  <line x1="860" y1="220" x2="818" y2="220" stroke="#38BDF8" stroke-opacity="0.34"/>
+  <line x1="1044" y1="220" x2="1086" y2="220" stroke="#38BDF8" stroke-opacity="0.34"/>
+  <line x1="952" y1="128" x2="952" y2="86" stroke="#38BDF8" stroke-opacity="0.34"/>
+  <line x1="952" y1="312" x2="952" y2="354" stroke="#38BDF8" stroke-opacity="0.34"/>
+  <rect x="793" y="338" width="318" height="46" rx="14" fill="#081528" stroke="#0EA5E9" stroke-opacity="0.22"/>
+  <text x="952" y="367" text-anchor="middle" fill="#D7EDFF" font-family="JetBrains Mono, Consolas, monospace" font-size="14">app.sgsseguranca.com.br</text>
+  <rect x="1" y="1" width="1198" height="438" rx="25" stroke="#38BDF8" stroke-opacity="0.06"/>
 </svg>
