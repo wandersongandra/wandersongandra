@@ -1,0 +1,75 @@
+<svg width="1600" height="560" viewBox="0 0 1600 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.25" stop-color="#071426"/>
+      <stop offset="0.55" stop-color="#0B1F3A"/>
+      <stop offset="0.82" stop-color="#0B2A4A"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <radialGradient id="core" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(835 255) rotate(90) scale(175)">
+      <stop stop-color="#BFE8FF" stop-opacity="0.32"/>
+      <stop offset="0.34" stop-color="#38BDF8" stop-opacity="0.28"/>
+      <stop offset="0.62" stop-color="#00A8FF" stop-opacity="0.20"/>
+      <stop offset="0.82" stop-color="#0056B3" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#0056B3" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ring" x1="680" y1="105" x2="965" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#CFF4FF"/>
+      <stop offset="0.22" stop-color="#7DD3FC"/>
+      <stop offset="0.55" stop-color="#00A8FF"/>
+      <stop offset="0.85" stop-color="#0056B3"/>
+      <stop offset="1" stop-color="#0B2A4A"/>
+    </linearGradient>
+    <filter id="glow" x="-120%" y="-120%" width="340%" height="340%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowSoft" x="-120%" y="-120%" width="340%" height="340%"><feGaussianBlur stdDeviation="20"/></filter>
+    <path id="streamA" d="M-60 355 C 225 265, 490 430, 785 320 S 1275 205, 1665 345"/>
+    <path id="streamB" d="M-80 435 C 250 500, 505 285, 780 370 S 1260 515, 1670 315"/>
+    <path id="streamC" d="M-90 275 C 220 180, 460 320, 760 250 S 1240 140, 1680 285"/>
+    <path id="streamD" d="M100 485 C 410 410, 620 415, 840 300 S 1150 180, 1450 250"/>
+    <linearGradient id="bar" x1="520" y1="348" x2="1080" y2="348" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#0D172A" stop-opacity="0.78"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="560" rx="28" fill="url(#bg)"/>
+  <g opacity="0.22" filter="url(#glowSoft)"><ellipse cx="840" cy="260" rx="360" ry="130" fill="#0056B3"/><ellipse cx="840" cy="260" rx="240" ry="100" fill="#00A8FF"/></g>
+  <circle cx="835" cy="255" r="175" fill="url(#core)"><animate attributeName="r" values="169;178;169" dur="7s" repeatCount="indefinite"/></circle>
+  <ellipse cx="835" cy="255" rx="150" ry="58" stroke="#7DD3FC" stroke-width="1.2" opacity="0.45" transform="rotate(-18 835 255)"><animateTransform attributeName="transform" type="rotate" from="-18 835 255" to="342 835 255" dur="22s" repeatCount="indefinite"/></ellipse>
+  <ellipse cx="835" cy="255" rx="155" ry="82" stroke="#00A8FF" stroke-width="1" opacity="0.28" transform="rotate(35 835 255)"><animateTransform attributeName="transform" type="rotate" from="35 835 255" to="-325 835 255" dur="27s" repeatCount="indefinite"/></ellipse>
+  <circle cx="835" cy="255" r="148" stroke="url(#ring)" stroke-width="2.5" opacity="0.85" filter="url(#glow)"><animate attributeName="opacity" values="0.55;1;0.55" dur="5.8s" repeatCount="indefinite"/></circle>
+  <ellipse cx="775" cy="205" rx="94" ry="42" fill="#E0F7FF" opacity="0.07" transform="rotate(-16 775 205)" filter="url(#glowSoft)"/>
+  <use href="#streamA" stroke="#00A8FF" stroke-width="1.15" stroke-opacity="0.2" fill="none"/>
+  <use href="#streamB" stroke="#38BDF8" stroke-width="1.0" stroke-opacity="0.13" fill="none"/>
+  <use href="#streamC" stroke="#0056B3" stroke-width="1.0" stroke-opacity="0.22" fill="none"/>
+  <use href="#streamD" stroke="#7DD3FC" stroke-width="1.0" stroke-opacity="0.11" fill="none"/>
+  <g fill="#7DD3FC" filter="url(#glow)">
+    <circle r="2.6"><animateMotion dur="7.6s" repeatCount="indefinite"><mpath href="#streamA"/></animateMotion></circle>
+    <circle r="2.1"><animateMotion dur="9.1s" begin="-2.2s" repeatCount="indefinite"><mpath href="#streamA"/></animateMotion></circle>
+    <circle r="1.7"><animateMotion dur="10.6s" begin="-5.4s" repeatCount="indefinite"><mpath href="#streamA"/></animateMotion></circle>
+    <circle r="2.0"><animateMotion dur="8.3s" begin="-1.5s" repeatCount="indefinite"><mpath href="#streamB"/></animateMotion></circle>
+    <circle r="1.6"><animateMotion dur="10.9s" begin="-4.6s" repeatCount="indefinite"><mpath href="#streamB"/></animateMotion></circle>
+    <circle r="2.2"><animateMotion dur="11.0s" begin="-2.9s" repeatCount="indefinite"><mpath href="#streamC"/></animateMotion></circle>
+    <circle r="1.7"><animateMotion dur="12.2s" begin="-7.1s" repeatCount="indefinite"><mpath href="#streamC"/></animateMotion></circle>
+    <circle r="1.5"><animateMotion dur="9.7s" begin="-6.4s" repeatCount="indefinite"><mpath href="#streamD"/></animateMotion></circle>
+  </g>
+  <g fill="#38BDF8" opacity="0.55">
+    <circle cx="105" cy="355" r="1.7"/><circle cx="148" cy="338" r="1.1"/><circle cx="190" cy="378" r="2.2"/><circle cx="248" cy="362" r="1.5"/><circle cx="296" cy="401" r="1.8"/><circle cx="342" cy="347" r="1.2"/><circle cx="388" cy="388" r="2.0"/><circle cx="444" cy="358" r="1.4"/><circle cx="488" cy="393" r="1.0"/><circle cx="1170" cy="355" r="1.5"/><circle cx="1212" cy="375" r="1.0"/><circle cx="1262" cy="332" r="2.2"/><circle cx="1308" cy="382" r="1.6"/><circle cx="1350" cy="347" r="1.5"/><circle cx="1392" cy="374" r="1.2"/><circle cx="1440" cy="338" r="2.1"/><circle cx="1493" cy="366" r="1.3"/>
+  </g>
+  <g fill="#DDF6FF" filter="url(#glow)">
+    <circle cx="695" cy="208" r="1.9"><animate attributeName="cx" values="695;774;695" dur="5.5s" repeatCount="indefinite"/></circle>
+    <circle cx="952" cy="248" r="1.8"><animate attributeName="cx" values="952;884;952" dur="6.2s" repeatCount="indefinite"/></circle>
+    <circle cx="730" cy="330" r="1.5"><animate attributeName="cy" values="330;282;330" dur="4.7s" repeatCount="indefinite"/></circle>
+    <circle cx="892" cy="138" r="1.6"><animate attributeName="cy" values="138;188;138" dur="5.3s" repeatCount="indefinite"/></circle>
+  </g>
+  <rect x="500" y="320" width="670" height="70" rx="35" fill="url(#bar)" stroke="#38BDF8" stroke-opacity="0.10"/>
+  <text x="835" y="248" text-anchor="middle" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="82" font-weight="800" letter-spacing="2.5">WANDERSON GANDRA</text>
+  <text x="835" y="304" text-anchor="middle" fill="#E6EEF8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="2.2">SOFTWARE ENGINEERING / SAAS / AI / AUTOMATION / CLOUD</text>
+  <line x1="565" y1="360" x2="1105" y2="360" stroke="#38BDF8" stroke-opacity="0.26"/><circle cx="565" cy="360" r="2.3" fill="#38BDF8"/><circle cx="1105" cy="360" r="2.3" fill="#38BDF8"/>
+  <text x="835" y="404" text-anchor="middle" fill="#7F93AD" font-family="JetBrains Mono, Consolas, monospace" font-size="13" letter-spacing="3">BUILDING SYSTEMS FOR REAL-WORLD OPERATIONS</text>
+  <rect x="1" y="1" width="1598" height="558" rx="27" stroke="#38BDF8" stroke-opacity="0.08"/>
+</svg>
