@@ -1,145 +1,93 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Wanderson Gandra hero banner" />
+<img src="./assets/hero.svg" width="100%" alt="Wanderson Gandra — Software Engineering, SaaS, AI, Automation and Cloud" />
 
 <br>
 
 <a href="https://app.sgsseguranca.com.br">
-  <img src="https://img.shields.io/badge/SGS-LIVE%20PLATFORM-0056B3?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/SGS-LIVE%20PLATFORM-0056B3?style=for-the-badge&amp;labelColor=020617" alt="Open SGS production platform" />
 </a>
 &nbsp;
 <a href="https://github.com/wandersongandra/sgsseguranca">
-  <img src="https://img.shields.io/badge/MAIN%20PROJECT-SGS-0F172A?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/CORE%20PRODUCT-SGS-0F172A?style=for-the-badge&amp;labelColor=020617" alt="Open SGS repository" />
 </a>
 &nbsp;
 <a href="https://github.com/wandersongandra">
-  <img src="https://img.shields.io/badge/GITHUB-wandersongandra-0B1220?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/GITHUB-wandersongandra-0B1220?style=for-the-badge&amp;labelColor=020617" alt="Open Wanderson Gandra GitHub profile" />
 </a>
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="section divider" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## PROFILE
+## 01 / PROFILE
 
-I am **Wanderson Gandra**, building technology at the intersection of **software engineering, operations, security and intelligent systems**.
+I am **Wanderson Gandra**, building software at the intersection of **engineering, operations, security and intelligent systems**.
 
-My background in Workplace Safety gives me a practical view of how software behaves in real companies, real workflows and real operational environments.  
-That perspective shapes how I think about products: not just code, but systems that improve control, visibility, security, efficiency and scale.
-
-<div align="center">
-
-`CONTROL` • `VISIBILITY` • `SECURITY` • `EFFICIENCY` • `INTELLIGENCE` • `SCALE`
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt="section divider" />
-
-## MAIN SYSTEM
-
-<img src="./assets/sgs-card.svg" width="100%" alt="SGS custom card" />
-
-### OFFICIAL LINKS
-
-- **Production:** https://app.sgsseguranca.com.br  
-- **Repository:** https://github.com/wandersongandra/sgsseguranca  
-
-### CORE TECHNOLOGY
+My professional background in **Occupational Safety** shapes a practical approach to software: design for real users, real controls, real data and real operational constraints. I am especially interested in systems that improve **control, visibility, security, efficiency, intelligence and scale**.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,nestjs,nodejs,postgres,redis,docker,github,linux&theme=dark&perline=10" />
+`CONTROL` &nbsp; `VISIBILITY` &nbsp; `SECURITY` &nbsp; `EFFICIENCY` &nbsp; `INTELLIGENCE` &nbsp; `SCALE`
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="section divider" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## PROJECT NETWORK
+## 02 / CORE PRODUCT
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<a href="https://app.sgsseguranca.com.br">
+  <img src="./assets/sgs-card.svg" width="100%" alt="SGS — Sistema de Gestão de Segurança" />
+</a>
 
-### SGS
+**SGS — Sistema de Gestão de Segurança** is a B2B multi-tenant SaaS platform for **Saúde e Segurança do Trabalho (SST)**, designed around governed documents, inspections, permissions, indicators, auditability and operational workflows.
 
-Multi-tenant B2B SaaS for structured Workplace Safety operations.
+**Production:** https://app.sgsseguranca.com.br  
+**Repository:** https://github.com/wandersongandra/sgsseguranca
 
-`SAAS` `SST` `MULTI-TENANT` `SECURITY`
+### Core technology
 
-[View repository](https://github.com/wandersongandra/sgsseguranca)
+<div align="center">
 
-</td>
-<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,nestjs,nodejs,postgres,redis,docker,github,linux&amp;theme=dark&amp;perline=10" alt="SGS core technology stack" />
 
-### Gandra Tecnologia
+</div>
 
-Technology company and product ecosystem focused on software, digital systems and innovation.
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-`SOFTWARE` `PRODUCT` `TECHNOLOGY`
+## 03 / SELECTED WORK
 
-[View repository](https://github.com/wandersongandra/gandra-tech)
+<a href="https://github.com/wandersongandra/gandra-tech">
+  <img src="./assets/gandra-card.svg" width="100%" alt="Gandra Tecnologia project card" />
+</a>
 
-</td>
-</tr>
+<br>
 
-<tr>
-<td width="50%" valign="top">
+<a href="https://github.com/wandersongandra/Neg-o-IA">
+  <img src="./assets/negao-card.svg" width="100%" alt="Negão AI project card" />
+</a>
 
-### Negão AI
+<br>
 
-Personal intelligent-agent ecosystem exploring memory, orchestration, tools and automation.
+<a href="https://github.com/wandersongandra/ajn-engenharia-site">
+  <img src="./assets/ajn-card.svg" width="100%" alt="AJN Engenharia project card" />
+</a>
 
-`AI` `AGENTS` `MEMORY` `AUTOMATION`
+<br>
 
-[View repository](https://github.com/wandersongandra/Neg-o-IA)
+<a href="https://github.com/wandersongandra/baixador_musica">
+  <img src="./assets/hyper-card.svg" width="100%" alt="Hyper Downloader project card" />
+</a>
 
-</td>
-<td width="50%" valign="top">
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-### AJN Engenharia
-
-Modern institutional experience for engineering and technical services.
-
-`WEB` `ENGINEERING` `EXPERIENCE`
-
-[View repository](https://github.com/wandersongandra/ajn-engenharia-site)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Hyper Downloader
-
-Media download and processing application focused on automation and practical workflows.
-
-`PYTHON` `FFMPEG` `YT-DLP`
-
-[View repository](https://github.com/wandersongandra/baixador_musica)
-
-</td>
-<td width="50%" valign="top">
-
-### Next System
-
-New work focused on SaaS, AI, automation, security and cloud systems.
-
-`BUILDING`
-
-</td>
-</tr>
-</table>
-
-<img src="./assets/divider.svg" width="100%" alt="section divider" />
-
-## ENGINEERING STACK
+## 04 / ENGINEERING STACK
 
 ### Application
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,nestjs,python,fastapi&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,nestjs,python,fastapi&amp;theme=dark&amp;perline=9" alt="Application technologies" />
 
 </div>
 
@@ -147,7 +95,7 @@ New work focused on SaaS, AI, automation, security and cloud systems.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,redis&amp;theme=dark" alt="Data technologies" />
 
 </div>
 
@@ -155,116 +103,109 @@ New work focused on SaaS, AI, automation, security and cloud systems.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,linux,github,vercel,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,linux,github,vercel,nginx&amp;theme=dark" alt="Infrastructure technologies" />
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="section divider" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## SYSTEM THINKING
+## 05 / SYSTEM THINKING
 
-<img src="./assets/architecture.svg" width="100%" alt="Custom architecture diagram" />
-
-My main areas of study and development:
+<img src="./assets/architecture.svg" width="100%" alt="System architecture model connecting product, software, security, operations, intelligence and scale" />
 
 <table>
 <tr>
 <td width="25%" valign="top">
 
-### Software
+**SOFTWARE**
 
 Architecture  
 APIs  
 Modularity  
 Testing  
 Performance  
-Scalability  
+Scalability
 
 </td>
 <td width="25%" valign="top">
 
-### Security
+**SECURITY**
 
 Authentication  
 Authorization  
 RBAC  
 Tenant isolation  
 Auditability  
-Secure APIs  
+Secure APIs
 
 </td>
 <td width="25%" valign="top">
 
-### Intelligence
+**INTELLIGENCE**
 
 LLMs  
-AI Agents  
+AI agents  
 RAG  
-Tool Calling  
+Tool calling  
 Memory  
-Orchestration  
+Orchestration
 
 </td>
 <td width="25%" valign="top">
 
-### Infrastructure
+**INFRASTRUCTURE**
 
 Containers  
 CI/CD  
 Workers  
 Caching  
 Observability  
-Cloud  
+Cloud
 
 </td>
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt="section divider" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## DEVELOPMENT SIGNAL
+## 06 / CURRENT DIRECTION
+
+<img src="./assets/mission.svg" width="100%" alt="Current direction: product, company, engineering and intelligence" />
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 07 / GITHUB SIGNAL
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=wandersongandra&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&ring_color=0056B3" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=wandersongandra&amp;show_icons=true&amp;hide_border=true&amp;bg_color=020617&amp;title_color=38BDF8&amp;icon_color=38BDF8&amp;text_color=CBD5E1&amp;ring_color=0056B3" alt="Wanderson Gandra GitHub statistics" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersongandra&layout=compact&hide_border=true&langs_count=10&bg_color=020617&title_color=38BDF8&text_color=CBD5E1" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersongandra&amp;layout=compact&amp;hide_border=true&amp;langs_count=10&amp;bg_color=020617&amp;title_color=38BDF8&amp;text_color=CBD5E1" alt="Most used languages on public repositories" />
 
 <br><br>
 
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wandersongandra&theme=github_dark" />
-
-<br>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=wandersongandra&bg_color=020617&color=94A3B8&line=0284C7&point=38BDF8&area=true&hide_border=true" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=wandersongandra&amp;bg_color=020617&amp;color=94A3B8&amp;line=0284C7&amp;point=38BDF8&amp;area=true&amp;hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="section divider" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## CURRENT MISSION
+<div align="center">
 
-```yaml
-primary:
-  - evolve SGS into a mature SaaS platform
-  - build Gandra Tecnologia as a software ecosystem
+### BUILD SYSTEMS THAT MATTER.
 
-engineering:
-  - architecture
-  - application security
-  - cloud infrastructure
-  - databases
-  - testing
-  - observability
+Software Engineering &nbsp; / &nbsp; SaaS &nbsp; / &nbsp; AI &nbsp; / &nbsp; Automation &nbsp; / &nbsp; Cloud
 
-intelligence:
-  - AI agents
-  - automation
-  - orchestration
-  - practical AI systems
+<br>
 
-principle:
-  "Build systems that survive contact with the real world."
-```
+[SGS Production](https://app.sgsseguranca.com.br)
+&nbsp;&nbsp;•&nbsp;&nbsp;
+[GitHub](https://github.com/wandersongandra)
+&nbsp;&nbsp;•&nbsp;&nbsp;
+[SGS Repository](https://github.com/wandersongandra/sgsseguranca)
 
-<img src="./assets/footer.svg" width="100%" alt="Footer signature" />
+<br><br>
+
+<img src="./assets/footer.svg" width="100%" alt="Wanderson Gandra — Gandra Tecnologia" />
+
+</div>
